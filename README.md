@@ -1,16 +1,27 @@
-### Hi there 👋
+<code> System.out.println("Welcome to my GitHub 😎") </code>
 
-<!--
-**Nandodeveloper/Nandodeveloper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🧑‍💻| Entry Level Software Engineer
+<br></br>
+🎓| B1 Intermediate English Level
+<br></br>
+🪪| 15 years old
+<hr></hr>
+💡| I'm currently studying:
+<br></br>
+<p gap= 10px>
+<a href="[https://skillicons.dev](https://skillicons.dev/)">
+<img src="https://skillicons.dev/icons?i=java,mysql,js,html,css" />
+</a>
+</p>
+<hr></hr>
+<div></div>
+🔎| My most used languages:
+<br></br>
+<a href="[https://github.com/seu-usuário-aqui](https://github.com/seu-usu%C3%A1rio-aqui)">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nandodeveloper&layout=compact&langs_count=7&theme=codeSTACKr"/>
+</a>
+</div>
+<div></div>
+<hr></hr>
+<div></div>
+🪄| Enjoy my GitHub ;)
