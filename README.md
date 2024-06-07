@@ -1,6 +1,6 @@
 <code> System.out.println("Welcome to my GitHub 😎") </code>
 
-🧑‍💻| Entry Level Software Engineer
+🧑‍💻| Entry Level Software Engineer / Data Scientist
 <br></br>
 🎓| B1 Intermediate English Level
 <br></br>
