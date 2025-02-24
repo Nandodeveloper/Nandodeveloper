@@ -4,7 +4,7 @@
 <br></br>
 🎓| B1 Intermediate English Level
 <br></br>
-🪪| 15 years old
+🪪| 16 years old
 <hr></hr>
 💡| I'm currently studying:
 <br></br>
