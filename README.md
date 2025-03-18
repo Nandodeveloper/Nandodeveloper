@@ -1,16 +1,24 @@
 <code> System.out.println("Welcome to my GitHub 😎") </code>
 
-🧑‍💻| Entry Level Software Engineer / Data Scientist
+🧑‍💻| Entry Level Software Engineer
 <br></br>
 🎓| B1 Intermediate English Level
 <br></br>
 🪪| 16 years old
 <hr></hr>
-💡| I'm currently studying:
+💡| My skills:
 <br></br>
 <p gap= 10px>
 <a href="[https://skillicons.dev](https://skillicons.dev/)">
-<img src="https://skillicons.dev/icons?i=java,cs,html,css,js,git,postman,spring,dotnet,maven,postgres,sqlite" />
+<img src="https://skillicons.dev/icons?i=java,cs,html,css,js,git,postman,sqlite" />
+</a>
+</p>
+<hr></hr>
+📖| I'm currently studying:
+<br></br>
+<p gap= 10px>
+<a href="[https://skillicons.dev](https://skillicons.dev/)">
+<img src="https://skillicons.dev/icons?i=spring,dotnet,maven,postgres" />
 </a>
 </p>
 <hr></hr>
