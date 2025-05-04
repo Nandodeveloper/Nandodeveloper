@@ -18,7 +18,7 @@
 <br></br>
 <p gap= 10px>
 <a href="[https://skillicons.dev](https://skillicons.dev/)">
-<img src="https://skillicons.dev/icons?i=spring,dotnet,maven,postgres" />
+<img src="https://skillicons.dev/icons?i=dotnet,postgres" />
 </a>
 </p>
 <hr></hr>
