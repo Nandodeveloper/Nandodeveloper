@@ -10,7 +10,7 @@
 <br></br>
 <p gap= 10px>
 <a href="[https://skillicons.dev](https://skillicons.dev/)">
-<img src="https://skillicons.dev/icons?i=java,cs,html,css,js,git,postman,sqlite" />
+<img src="https://skillicons.dev/icons?i=cs,java,git,postman,sqlite,js,html,css" />
 </a>
 </p>
 <hr></hr>
